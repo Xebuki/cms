@@ -1,0 +1,20 @@
+
+[
+        {
+            "id": 0,
+            "tytul": "Pieśń lodu i ognia",
+            "autor": "George R. R. Martin",
+            "dostepna": "tak"
+        }, {
+            "id": 1,
+            "tytul": "Pan lodowego ogrodu",
+            "autor": "Jarosław Grzedowicz",
+            "dostepna": "tak"
+        }, {
+            "id": 2,
+            "tytul": "Achaja",
+            "autor": "Andrzej Ziemianski",
+            "dostepna": "tak"
+        }
+    ]
+
